@@ -47,6 +47,10 @@
 	
 	i = 0;
 	
+	
+	
+	
+	
 	[NSTimer scheduledTimerWithTimeInterval:0.2 target:self selector:@selector(updateFrame) userInfo:nil repeats:YES];
 
 	

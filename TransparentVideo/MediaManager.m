@@ -149,6 +149,9 @@
 												 name:AVAnimatorDoneNotification
 											   object:media];
 	[media startAnimator];
+	
+	
+	
 }
 
 -(void)updateVideoFrame:(CGRect) rect{

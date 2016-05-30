@@ -53,7 +53,6 @@
 // Return array of all alpha channel fireworks media
 
 - (NSArray*) getMedia;
-
 -(void)updateVideoFrame:(CGRect) rect;
 
 @end
